@@ -1,1 +1,5 @@
-Hello Very Crool World!
+<<<<<<< HEAD
+Hello Very Happy World!
+=======
+Hello Very Happy World!
+>>>>>>> Happy
